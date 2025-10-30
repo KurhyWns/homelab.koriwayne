@@ -30,7 +30,7 @@ theme:
 nav:
   - Home: index.md
   - Projects:
-      - Homelab Project: 
+      - Homelab Project:
           - Overview: projects/homelab/index.md
       - Shared Pipelines:
           - Overview: shared-pipelines/index.md
