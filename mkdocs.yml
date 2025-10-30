@@ -5,6 +5,9 @@ site_url: https://homelab.koriwayne.com
 repo_url: https://github.com/KurhyWns/homelab.koriwayne.com
 repo_name: KurhyWns/homelab.koriwayne.com
 
+extra_css:
+  - assets/css/extra.css
+
 theme:
   name: material
   palette:
