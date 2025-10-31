@@ -76,7 +76,7 @@ This portfolio implements comprehensive security and quality checks across all p
 ## Repository Information
 - **Portfolio Repository**: [koriwayne.com](https://github.com/KurhyWns/koriwayne.com)
 - **Custom Domain**: [koriwayne.com](https://koriwayne.com)
-- **Home Lab**: [homeLab](https://github.com/KurhyWns/homeLab)
+- **Home Lab**: [homeLab](https://www.homelab.koriwayne.com/)
 - **Shared Pipelines**: [shared-pipeline](https://github.com/KurhyWns/shared-pipeline)
 
 ---
