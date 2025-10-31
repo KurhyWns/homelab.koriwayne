@@ -39,6 +39,10 @@ nav:
       - Gitea: gitea/index.md
       - MetalLB: metallb/index.md
       - ArgoCD: argocd/index.md
+      - CI/CD Runners:
+          - Overview: cicd-runners/index.md
+          - GitHub Runner: cicd-runners/github-runner.md
+          - GitLab Runner: cicd-runners/gitlab-runner.md
   - Development:
       - Branching Strategy: branching-strategy/index.md
 

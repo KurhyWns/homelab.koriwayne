@@ -29,6 +29,7 @@ This portfolio demonstrates my expertise in **DevSecOps** and **GitOps** methodo
 - **Gitea**: Self-hosted Git server documentation
 - **MetalLB**: Load balancer for bare metal Kubernetes
 - **ArgoCD**: GitOps continuous delivery tool
+- **CI/CD Runners**: Self-hosted GitHub Actions and GitLab CI runners
 - **Branching Strategy**: GitFlow with security enforcement
 
 > **Note**: For Shared Pipeline documentation, visit [koriwayne.com](https://www.koriwayne.com)
