@@ -1,5 +1,5 @@
 # Kori Hanes
-## DevSecOps & GitOps Portfolio
+## DevSecOps & GitOps Homelab Portfolio
 
 Welcome to my comprehensive DevSecOps and GitOps portfolio! This site showcases my expertise in modern software development practices, infrastructure automation, and security-first development methodologies.
 
